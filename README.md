@@ -1,19 +1,12 @@
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kkcjy.github.io-5B7A99?style=for-the-badge&logo=github&logoColor=white)](https://kkcjy.github.io)
-
 <a href="https://github.com/kkcjy">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7A99,100:4E8A8A&height=170&section=header&text=Junxian%20Jin&fontSize=44&fontColor=ffffff&desc=AI%20%2F%20Backend%20Engineer&descSize=17&descAlignY=56" alt="Junxian Jin" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7A99,100:4E8A8A&height=140&section=header&fontColor=ffffff&desc=AI%20%2F%20Backend%20Engineer&descSize=16&descAlignY=48" alt="" />
 </a>
-
-## ✦ 金俊贤 · Junxian Jin ✦
-
-**东南大学 · 计算机科学与技术**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=5B7A99&width=460&lines=RAG+%C2%B7+LLM+%C2%B7+Agent;Vibe+Coding+%C2%B7+Harness+%C2%B7+MCP;UWB+%C2%B7+Wireless+%C2%B7+Ranging)](https://github.com/kkcjy)
 
 [![GitHub followers](https://img.shields.io/github/followers/kkcjy?style=social)](https://github.com/kkcjy)
-[![Profile views](https://komarev.com/ghpvc/?username=kkcjy&color=5B7A99&style=flat-square)](https://github.com/kkcjy)
 
 </div>
 
@@ -116,7 +109,7 @@
 ---
 
 <div align="center">
-  <sub>Built with 💜 by Junxian Jin</sub>
+  <sub>Built with 💜</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7A99,100:4E8A8A&height=120&section=footer" alt="footer" />
