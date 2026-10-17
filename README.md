@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/kkcjy">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7A99,100:4E8A8A&height=100&section=header" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7A99,50:4E8A8A,100:6A8A66&height=100&section=header" alt="" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=5B7A99&width=460&center=true&lines=RAG+%C2%B7+LLM+%C2%B7+Agent;Vibe+Coding+%C2%B7+Harness+%C2%B7+MCP;UWB+%C2%B7+Wireless+%C2%B7+Ranging)](https://github.com/kkcjy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=5B7A99&width=520&center=true&lines=RAG+%C2%B7+LLM+%C2%B7+Agent;Vibe+Coding+%C2%B7+Harness+%C2%B7+MCP;UWB+%C2%B7+Wireless+%C2%B7+Ranging)](https://github.com/kkcjy)
 
 [![GitHub followers](https://img.shields.io/github/followers/kkcjy?style=social)](https://github.com/kkcjy)
 
@@ -94,9 +94,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=kkcjy&hide_border=true&background=F6F8FA&ring=5B7A99&fire=CB9A5E&currStreakNum=5B7A99&sideNums=5B7A99&currStreakLabel=5B7A99&sideLabels=5B7A99&dates=5B7A99" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=kkcjy&hide_border=true&background=F6F8FA&ring=5B7A99&fire=CB9A5E&currStreakNum=5B7A99&sideNums=5B7A99&currStreakLabel=5B7A99&sideLabels=5B7A99&dates=5B7A99" height="180" alt="GitHub streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkcjy&layout=compact&title_color=5B7A99&text_color=57606A&bg_color=F6F8FA&hide_border=true" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkcjy&layout=compact&title_color=5B7A99&text_color=57606A&bg_color=F6F8FA&hide_border=true" height="180" alt="Top languages" />
 
 </div>
 
@@ -112,4 +112,4 @@
   <sub>Built with 💜</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7A99,100:4E8A8A&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A8A66,50:4E8A8A,100:5B7A99&height=120&section=footer" alt="footer" />
