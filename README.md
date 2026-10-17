@@ -55,7 +55,7 @@
 
 ### 💼 项目 Projects
 
-#### ⭐ [RAG-LAB](https://github.com/kkcjy/RAG-LAB) — 企业级 RAG 知识库问答系统
+#### ⭐ RAG-LAB — 企业级 RAG 知识库问答系统
 
 `FastAPI` `Qdrant` `PostgreSQL` `Redis` `DeepSeek` `BGE-M3` `vLLM` `Docker`
 
@@ -64,6 +64,8 @@
 - Query 改写 · 相关度判定（阈值 + LLM 精判）· SSE 流式输出带引用标注
 - 扫描件 PDF 自动 OCR（本地 RapidOCR）· 中文友好分块 · 增量索引
 - Provider 抽象层：LLM / Embedding / 向量库 / 联网搜索 —— 改配置即切换
+
+📁 相关仓库：[RAG-LAB](https://github.com/kkcjy/RAG-LAB)
 
 #### 🌐 文枢多模态智能翻译系统
 
