@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://github.com/kkcjy">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7A99,100:4E8A8A&height=140&section=header&fontColor=ffffff&desc=AI%20%2F%20Backend%20Engineer&descSize=16&descAlignY=48" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7A99,100:4E8A8A&height=100&section=header" alt="" />
 </a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=5B7A99&width=460&lines=RAG+%C2%B7+LLM+%C2%B7+Agent;Vibe+Coding+%C2%B7+Harness+%C2%B7+MCP;UWB+%C2%B7+Wireless+%C2%B7+Ranging)](https://github.com/kkcjy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=5B7A99&width=460&center=true&lines=RAG+%C2%B7+LLM+%C2%B7+Agent;Vibe+Coding+%C2%B7+Harness+%C2%B7+MCP;UWB+%C2%B7+Wireless+%C2%B7+Ranging)](https://github.com/kkcjy)
 
 [![GitHub followers](https://img.shields.io/github/followers/kkcjy?style=social)](https://github.com/kkcjy)
 
