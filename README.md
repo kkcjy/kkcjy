@@ -17,7 +17,7 @@
 
 东南大学计算机科学与技术专业本科生，专注 **检索增强生成（RAG）** 与大模型应用，同时具备 **嵌入式开发** 与 **无线网络协议** 的工程能力。
 
-- 🔭 正在构建 [**RAG-LAB**](https://github.com/kkcjy/RAG-LAB) —— 企业级 RAG 知识库问答系统
+- 🔭 正在构建 [**RAG-LAB**](https://github.com/kkcjy/RAG-LAB) —— RAG 知识库问答系统
 - 🧪 AI 工程实践：Vibe Coding · Skills · Memory · MCP Server · Harness 工程
 - 📡 硬件与协议：Crazyflie 2.1 · DW3000 · FreeRTOS · TDoA / DSR
 
@@ -55,7 +55,7 @@
 
 ### 💼 项目 Projects
 
-#### ⭐ RAG-LAB — 企业级 RAG 知识库问答系统
+#### ⭐ RAG-LAB — RAG 知识库问答系统
 
 `FastAPI` `Qdrant` `PostgreSQL` `Redis` `DeepSeek` `BGE-M3` `vLLM` `Docker`
 
