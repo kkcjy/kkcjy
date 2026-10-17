@@ -97,6 +97,8 @@
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com/?user=kkcjy&hide_border=true&background=F6F8FA&ring=5B7A99&fire=CB9A5E&currStreakNum=5B7A99&sideNums=5B7A99&currStreakLabel=5B7A99&sideLabels=5B7A99&dates=5B7A99" alt="GitHub streak" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkcjy&layout=compact&title_color=5B7A99&text_color=57606A&bg_color=F6F8FA&hide_border=true" alt="Top languages" />
 
 </div>
@@ -112,3 +114,5 @@
 <div align="center">
   <sub>Built with 💜 by Junxian Jin</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B7A99,100:4E8A8A&height=120&section=footer" alt="footer" />
