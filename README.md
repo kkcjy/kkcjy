@@ -7,7 +7,7 @@
 *AI / Backend Engineer — RAG · LLM · 嵌入式 · 无线网络协议*
 
 [![GitHub followers](https://img.shields.io/github/followers/kkcjy?style=social)](https://github.com/kkcjy)
-[![Profile views](https://komarev.com/ghpvc/?username=kkcjy&color=C77DB0&style=flat-square)](https://github.com/kkcjy)
+[![Profile views](https://komarev.com/ghpvc/?username=kkcjy&color=2563EB&style=flat-square)](https://github.com/kkcjy)
 
 </div>
 
@@ -27,30 +27,29 @@
 
 **AI / LLM**
 
-![RAG](https://img.shields.io/badge/RAG-9B72CF?style=for-the-badge)
-![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-9B72CF?style=for-the-badge)
-![MCP Server](https://img.shields.io/badge/MCP_Server-C77DB0?style=for-the-badge)
-![Claude Skills](https://img.shields.io/badge/Claude_Skills-9B72CF?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-9B72CF?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-C77DB0?style=for-the-badge&logo=pytorch&logoColor=white)
-![MindSpore](https://img.shields.io/badge/MindSpore-9B72CF?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-2563EB?style=for-the-badge)
+![Vibe Coding](https://img.shields.io/badge/Vibe_Coding-2563EB?style=for-the-badge)
+![MCP Server](https://img.shields.io/badge/MCP_Server-2563EB?style=for-the-badge)
+![Claude Skills](https://img.shields.io/badge/Claude_Skills-2563EB?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-2563EB?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2563EB?style=for-the-badge&logo=pytorch&logoColor=white)
+![MindSpore](https://img.shields.io/badge/MindSpore-2563EB?style=for-the-badge)
 
 **嵌入式 / 协议**
 
-![C](https://img.shields.io/badge/C-9B72CF?style=for-the-badge&logo=c&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-C77DB0?style=for-the-badge)
-![TDoA](https://img.shields.io/badge/TDoA-9B72CF?style=for-the-badge)
-![UWB](https://img.shields.io/badge/UWB-C77DB0?style=for-the-badge)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-9B72CF?style=for-the-badge)
+![C](https://img.shields.io/badge/C-2563EB?style=for-the-badge&logo=c&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2563EB?style=for-the-badge)
+![TDoA](https://img.shields.io/badge/TDoA-2563EB?style=for-the-badge)
+![UWB](https://img.shields.io/badge/UWB-2563EB?style=for-the-badge)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-2563EB?style=for-the-badge)
 
 **工程 / 数据**
 
-![Python](https://img.shields.io/badge/Python-9B72CF?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-C77DB0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-9B72CF?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-C77DB0?style=for-the-badge&logo=linux&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-9B72CF?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-C77DB0?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2563EB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2563EB?style=for-the-badge&logo=linux&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-2563EB?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
@@ -84,7 +83,7 @@
 针对传统 DS-TWR 在动态智能体集群中的测距滞后问题，提出 **DSR 算法**，设计兼容 TDoA 报文格式的专用协议栈与状态机，支持测距模式无缝切换。
 
 - 测距精度提升：Mean AE ↓ **37.6%** · RMSE ↓ **32.1%** · MRE ↓ **36.7%**
-- **第一发明人**发明专利授权（ZL 2025 1 1363809.5）· 论文 **MobiCom 在投**
+- **第一发明人**发明专利授权（[ZL 2025 1 1363809.5](patent-ZL2025113638095.pdf)）· 论文 **MobiCom 在投**
 
 📁 相关仓库：[TDoA-DSR-Compat-Framework](https://github.com/kkcjy/TDoA-DSR-Compat-Framework)
 
@@ -98,9 +97,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kkcjy&show_icons=true&title_color=9B72CF&text_color=5A4E7A&icon_color=C9A7E8&bg_color=FBF7FC&hide_border=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kkcjy&show_icons=true&title_color=2563EB&text_color=57606A&icon_color=2563EB&bg_color=F6F8FA&hide_border=true" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkcjy&layout=compact&title_color=9B72CF&text_color=5A4E7A&bg_color=FBF7FC&hide_border=true" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkcjy&layout=compact&title_color=2563EB&text_color=57606A&bg_color=F6F8FA&hide_border=true" alt="Top languages" />
 
 </div>
 
